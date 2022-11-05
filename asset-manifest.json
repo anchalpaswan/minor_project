@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/minor_project/static/css/main.26a70e5d.css",
+    "main.js": "/minor_project/static/js/main.77be1a16.js",
+    "static/media/humanAtStepping.svg": "/minor_project/static/media/humanAtStepping.fbc1170b95e127990baccdc23ec17e15.svg",
+    "static/media/steppingStoneNavbar.svg": "/minor_project/static/media/steppingStoneNavbar.fee6fc7ed07554c5161202d9613eb1c3.svg",
+    "static/media/headerLogoGREY.svg": "/minor_project/static/media/headerLogoGREY.289d19b3c20adae31651812fe4aa4e9a.svg",
+    "index.html": "/minor_project/index.html",
+    "main.26a70e5d.css.map": "/minor_project/static/css/main.26a70e5d.css.map",
+    "main.77be1a16.js.map": "/minor_project/static/js/main.77be1a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a70e5d.css",
+    "static/js/main.77be1a16.js"
+  ]
+}
